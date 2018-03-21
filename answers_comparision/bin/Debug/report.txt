@@ -1,0 +1,66 @@
+Pytanie nr: 1
+Odpowiedz ucznia: A
+Poprawna: C
+Ilosc bledow: 1
+Wynik: 0/1
+/--------------------------------------/
+Pytanie nr: 2
+Odpowiedz ucznia: B
+Poprawna: A
+Ilosc bledow: 2
+Wynik: 0/2
+/--------------------------------------/
+Pytanie nr: 3
+Odpowiedz ucznia: C
+Poprawna: C
+Ilosc bledow: 2
+Wynik: 1/3
+/--------------------------------------/
+Pytanie nr: 4
+Odpowiedz ucznia: D
+Poprawna: D
+Ilosc bledow: 2
+Wynik: 2/4
+/--------------------------------------/
+Pytanie nr: 5
+Odpowiedz ucznia: C
+Poprawna: C
+Ilosc bledow: 2
+Wynik: 3/5
+/--------------------------------------/
+Pytanie nr: 6
+Odpowiedz ucznia: A
+Poprawna: A
+Ilosc bledow: 2
+Wynik: 4/6
+/--------------------------------------/
+Pytanie nr: 7
+Odpowiedz ucznia: A
+Poprawna: B
+Ilosc bledow: 3
+Wynik: 4/7
+/--------------------------------------/
+Pytanie nr: 8
+Odpowiedz ucznia: C
+Poprawna: C
+Ilosc bledow: 3
+Wynik: 5/8
+/--------------------------------------/
+Pytanie nr: 9
+Odpowiedz ucznia: B
+Poprawna: B
+Ilosc bledow: 3
+Wynik: 6/9
+/--------------------------------------/
+Pytanie nr: 10
+Odpowiedz ucznia: D
+Poprawna: D
+Ilosc bledow: 3
+Wynik: 7/10
+/--------------------------------------/
+Pytanie nr: 11
+Odpowiedz ucznia: B
+Poprawna: B
+Ilosc bledow: 3
+Wynik: 8/11
+/--------------------------------------/
